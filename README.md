@@ -24,10 +24,7 @@
 - WordPress
 
 ---
-<span>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight)</span>
-
-
-<span>![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)</span>
+<span>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight)</span> <span>![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)</span>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihattab&layout=compact&theme=tokyonight)
 
