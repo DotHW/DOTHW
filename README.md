@@ -21,3 +21,5 @@ AWS Solutions Architect
 
 Email: example@email.com
 LinkedIn: linkedin.com/in/example
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight)
