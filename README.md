@@ -39,3 +39,27 @@
 
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Website: https://yourwebsite.com
+
+## Featured Projects
+
+### 📱 Flutter Weather App
+
+Real-time weather application built with Flutter and REST APIs.
+
+🔗 https://github.com/fadihattab/flutter-weather-app
+
+---
+
+### 🛒 MERN E-Commerce Store
+
+Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
+
+🔗 https://github.com/fadihattab/mern-store
+
+---
+
+### 🎓 Moodle LMS Platform
+
+Customized Moodle learning management system with cloud deployment.
+
+🔗 https://github.com/fadihattab/moodle-project
