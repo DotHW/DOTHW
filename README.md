@@ -24,10 +24,10 @@
 - WordPress
 
 ---
+<span>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight)</span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
+<span>![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)</span>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihattab&layout=compact&theme=tokyonight)
 
