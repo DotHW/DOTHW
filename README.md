@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Fadi 👋
 
-<!--
-**DotHW/DOTHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
+Flutter Trainer
+AWS Solutions Architect
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter
+- React
+- Node.js
+- PHP
+- AWS
+
+## Current Projects
+
+- E-learning Platform
+- Flutter Mobile Apps
+
+## Contact
+
+Email: example@email.com
+LinkedIn: linkedin.com/in/example
