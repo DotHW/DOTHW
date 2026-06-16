@@ -1,25 +1,29 @@
-# Hi, I'm Fadi 👋
+# Hi, I'm Fadi Hattab 👋
 
-Full Stack Developer
-Flutter Trainer
-AWS Solutions Architect
+## AWS Solutions Architect | Full Stack Developer | IT Trainer
 
-## Skills
+### Technologies
 
 - Flutter
 - React
 - Node.js
 - PHP
 - AWS
+- WordPress
 
-## Current Projects
-
-- E-learning Platform
-- Flutter Mobile Apps
-
-## Contact
-
-Email: example@email.com
-LinkedIn: linkedin.com/in/example
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihattab&layout=compact&theme=tokyonight)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fadihattab&theme=tokyo-night)](https://github.com/fadihattab)
+
+---
+
+### Connect with me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Website: https://yourwebsite.com
