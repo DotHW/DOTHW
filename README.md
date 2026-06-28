@@ -44,7 +44,7 @@
 
 Real-time weather application built with Flutter and REST APIs.
 
-🔗 [https://github.com/DotHW/h03.git]
+🔗 https://github.com/DotHW/h03.git
 
 ---
 
