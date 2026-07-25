@@ -2,7 +2,8 @@
 
 # Hi, I'm Fadi Hattab 👋
 
-## AWS Solutions Architect | Full Stack Developer | IT Trainer
+### AWS Solutions Architect | Full Stack Developer | IT Trainer
+---
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -15,10 +16,6 @@
 - PHP
 - AWS
 - WordPress
-
----
-## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
 
 ---
 
