@@ -19,13 +19,6 @@
 
 ---
 
-### Connect with me
-
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Website: https://yourwebsite.com
-  
----
-
 ## Featured Projects
 
 ### 📱 Flutter Weather App
