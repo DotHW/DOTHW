@@ -3,11 +3,6 @@
 # Hi, I'm Fadi Hattab 👋 
 ### AWS Solutions Architect | Full Stack Developer | IT Trainer
 ---
-# Your Name
-
-**Full-stack engineer — I ship features end to end, from schema to interface**
-
-📍 Remote · UTC+1
 
 ### About me
 
@@ -36,3 +31,4 @@ I take features from "we should probably do this" to production: the data model,
 [![Website](https://img.shields.io/badge/Website-0B1426?style=flat&logo=googlechrome&logoColor=white)](https://your-site.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 👉 [View my full profile on ShowProof →](https://showproof.io/@your-handle)
+
